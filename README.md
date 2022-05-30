@@ -1,5 +1,4 @@
-# Amazon 2009-2019 Best Selling Book EDA
-Amazon Bestselling Books Visualization (Matplotlib, Seaborn, Plotly)
+# Amazon 2009-2019 Best Selling Book EDA (Kaggle Competition)
 
 # Introduction
 As a gargantuan company, Amazon provides a wide selection of books for its customers. Books are never judged by its cover, but everyone should also be able to rate books (not just journalists or editors). Amazon enables customers to rate books by giving them scores between 1-5 and a detailed review text to help others decide whether to purchase a particular book or not.
@@ -25,6 +24,6 @@ In this notebook, we will attempt to explore the dataset consisting of books tha
 
 # Content
   - Exploratory Data Analysis
-  - Visualization
+  - Visualization (Python Libraries Used: Matplotlib, Seaborn, Plotly)
   - Draw insight from visual displays
 
